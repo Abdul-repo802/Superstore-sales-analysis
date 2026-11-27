@@ -145,7 +145,7 @@ The full list (Calendar table, Sales YTD, Avg Ship Days, an improved YoY measure
 │   ├── train.csv
 │   └── superstore_clean.csv
 ├── dashboard/
-│   └── superstore_sales_results.pbix
+│   └── Superstore_Sales_Analysis.pbix
 ├── docs/
 │   ├── Project_Documentation.pdf
 │   └── DAX_Reference.pdf
